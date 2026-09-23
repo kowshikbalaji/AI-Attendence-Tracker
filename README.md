@@ -44,6 +44,4 @@ AI Attendance Tracker is a smart attendance management system that uses **Face R
 - **Pillow** – Image processing.
 - **Segno** – QR code generation.
 
-## Deployment
 
-The application is deployed on **Streamlit Cloud**.
